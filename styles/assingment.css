@@ -137,8 +137,10 @@ header{
     margin-top: 15px;
 }
 
+
+/* Footer portion */
 .footer{
-    background-color: black;
+    background-color: rgb(19, 18, 18);
     margin-top: 80px;
     padding-top: 130px;
     padding-bottom: 130px;
@@ -196,5 +198,9 @@ header{
 
 .footer-description{
     display: flex;
+}
+
+.icons{
+    padding-top: 25px;
 }
 
